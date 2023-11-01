@@ -1,1 +1,2 @@
 Contents of file 2
+Next commit
