@@ -1,2 +1,3 @@
 Contents of file 2
 Next commit
+Change made by Paul
