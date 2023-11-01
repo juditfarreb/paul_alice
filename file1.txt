@@ -1,3 +1,4 @@
 Contents of file 1
 Next commit
 Change made by Alice
+Another change made by Alice
